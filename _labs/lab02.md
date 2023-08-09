@@ -29,6 +29,17 @@ but access the files on CSIL.  The articles below explain how, and have links to
 You'll still need a terminal window on CSIL to run your code.  You can use the VS Code terminal
 windows, but I encourage you to try having a separate terminal window; it is nice to have a whole window for your terminal screen, instead of just the tiny little one built into VS Code.
 
+-- (Updated on Jul 31)
+
+You have the option of continuing to work with vim or try a new editor (VS Code).
+
+Setting up VS Code for remote development is really useful because you can access your files on csil remotely through VS Code. It allows you to use a modern editor while working in the csil environment. 
+
+Official Tutorial: [VS Code Remote SSH](https://code.visualstudio.com/learn/develop-cloud/ssh-lab-machines) (start from 0:47)
+
+You'll still need a terminal window on CSIL to run your code.  You can use the VS Code terminal
+windows, but I encourage you to try having a separate terminal window; it is nice to have a whole window for your terminal screen, instead of just the tiny little one built into VS Code.
+
 ## Step 0: Log on to CSIL and bring up a terminal window. 
 
 As a reminder, here's how to get a terminal:
