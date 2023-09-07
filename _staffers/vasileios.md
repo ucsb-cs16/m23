@@ -2,7 +2,7 @@
 name: Vasileios Samaras
 role: Teaching Assistant
 pronouns: he/him/his
-photo: vsamaras.jpeg
+photo: 404.png
 ---
 
 Hi, everyone! I am a Ph.D. student in the CS Department focusing on computer systems.
